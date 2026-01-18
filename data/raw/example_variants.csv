@@ -1,0 +1,5 @@
+gene,position,reference,alternate,variant_type
+BRCA1,12345,A,T,missense
+BRCA1,12350,G,A,synonymous
+TP53,7569,C,T,nonsense
+TP53,7572,G,C,missense
