@@ -24,5 +24,4 @@ It demonstrates practical skills in variant analysis, quality control, and biolo
 
 ---
 
-## 📁 Project Structure
 
