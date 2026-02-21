@@ -3,8 +3,6 @@
 This project focuses on the analysis and interpretation of genetic variants in a medical genomics context.  
 It demonstrates practical skills in variant analysis, quality control, and biological interpretation using Python.
 
-⚠️ **Disclaimer:** This project is for educational purposes only and does not provide clinical diagnoses.
-
 ---
 
 ## 🎯 Objectives
